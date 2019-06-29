@@ -1,0 +1,1 @@
+{"jobID":"7d3cf134-e392-2720-f629-c4f5dd73ffe1","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"demo:helmrelease/ghost":{"add":{"automated":"true"},"remove":{}}}},"result":null}
