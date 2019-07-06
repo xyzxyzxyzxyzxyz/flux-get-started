@@ -1,0 +1,1 @@
+{"jobID":"75dfc366-9f35-38de-bdb4-92a5a5b1258b","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"demo:helmrelease/redis":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
